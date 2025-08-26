@@ -31,9 +31,9 @@ This initiative was developed as a key part of my **Machine Learning Internship 
 - **RMSE:** 1.35  
 - **MAPE:** 19.48%  
 
-#📸 Dashboard Preview  
+##📸 Dashboard Preview  
  
-![Superstore Sales Analysis & Forecast Dashboard](Superstore-Sales-Analysis-and-Forecast-Dashboard.jpeg) 
+![Superstore Sales Analysis and Forecast Dashboard](Superstore-Sales-Analysis-and-Forecast-Dashboard.jpeg) 
 
 
 ## 🔗 Links  
