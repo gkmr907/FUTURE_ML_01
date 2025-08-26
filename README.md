@@ -16,6 +16,12 @@ The model's accuracy was assessed using standard metrics: MAE, RMSE, and MAPE.
 
 ---
 
+## 📸 DASHBOARD OVERVIEW
+
+The dashboard is designed for easy consumption, providing a high-level view of sales performance. It features a main page with KPI cards and key charts for a quick understanding of sales trends. Separate pages are dedicated to monthly and yearly analysis, allowing for detailed exploration of sales patterns over different timeframes.
+
+---
+
 ## 📂 FEATURES
 
 ✅ Forecasted daily sales with clear confidence intervals
@@ -44,7 +50,7 @@ MAPE: 19.48%
 
 ## 📸 Dashboard Preview
 
-![Superstore Sales Analysis & Forecast Dashboard](Superstore Sales Analysis and Forecast Dashboard.jpeg)
+![Superstore Sales Analysis & Forecast Dashboard](Superstore-Sales-Analysis-and-Forecast-Dashboard.jpeg)
 
 ---
 
