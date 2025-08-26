@@ -19,15 +19,10 @@ The model's accuracy was assessed using standard metrics: MAE, RMSE, and MAPE.
 ## 📂 FEATURES
 
 ✅ Forecasted daily sales with clear confidence intervals
-
 ✅ Visual comparison of actual sales versus predicted sales trends
-
 ✅ Dedicated KPI cards to display actual and forecasted sales figures
-
 ✅ Detailed error analysis through residual plotting
-
 ✅ Insights broken down by product category
-
 ✅ User-friendly, interactive dashboard filters
 
 ---
@@ -35,7 +30,6 @@ The model's accuracy was assessed using standard metrics: MAE, RMSE, and MAPE.
 ## 🛠️ TECH STACK
 
 Python (Pandas, Prophet, NumPy, Matplotlib)
-
 Power BI (Data Visualization & KPI Dashboards)
 
 ---
@@ -43,19 +37,21 @@ Power BI (Data Visualization & KPI Dashboards)
 ## 📈 MODEL PERFORMANCE
 
 MAE: 1.05
-
 RMSE: 1.35
-
 MAPE: 19.48%
+
+---
+
+## 📸 Dashboard Preview
+
+![Superstore Sales Analysis & Forecast Dashboard](Superstore Sales Analysis and Forecast Dashboard.jpeg)
 
 ---
 
 ## 🔗 LINKS
 
 📂 [Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
-
 💻 [Code Notebook](https://colab.research.google.com/drive/1XsKDa14RoKv-ZTvR_X-ID2v-hptn_KhZ)
-
 📊 [Dashboard File](https://github.com/gkmr907/FUTURE_ML_01/blob/main/ML_Task_1.pbix)
 
 ---
