@@ -10,11 +10,17 @@ This initiative was developed as a key part of my **Machine Learning Internship 
 
 ## 📂 Features  
 ✅ Forecasted daily sales with clear confidence intervals  
-✅ Visual comparison of actual sales versus predicted sales trends  
+
+✅ Visual comparison of actual sales versus predicted sales trends
+
 ✅ Dedicated KPI cards to display actual and forecasted sales figures  
+
 ✅ Detailed error analysis through residual plotting  
+
 ✅ Insights broken down by product category  
-✅ User-friendly, interactive dashboard filters  
+
+✅ User-friendly, interactive dashboard filters 
+
 
 ## 🛠️ Tech Stack  
 - **Python** (Pandas, Prophet, NumPy, Matplotlib)  
